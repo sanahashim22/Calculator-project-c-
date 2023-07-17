@@ -1,0 +1,51 @@
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot\calculator\obj\Debug\net6.0-windows\calculator.MyCalculator.resources
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.MyCalculator.resources
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\HINA HASHIM\Desktop\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.MyCalculator.resources
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.csproj.GenerateResource.cache
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\HINA HASHIM\Desktop\2nd semester\OOP\c# sharp calculatot assignment 4\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
